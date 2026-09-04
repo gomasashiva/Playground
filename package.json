@@ -1,0 +1,27 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gomasashiva/Playground#readme",
+  "bugs": {
+    "url": "https://github.com/gomasashiva/Playground/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomasashiva/Playground.git"
+  },
+  "license": "ISC",
+  "author": "gomasashiva",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
